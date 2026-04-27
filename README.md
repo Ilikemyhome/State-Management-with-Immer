@@ -31,8 +31,7 @@ Real‑time UI updates
 Fully immutable state managed by Immer
 
 ##  Test Cases
-Below are 3 normal cases and 3 edge cases, formatted for a README and ready for instructor review.
-
+Below are 3 normal cases and 3 edge cases
 ### Normal Test Cases
         1. Add a standard item
         
